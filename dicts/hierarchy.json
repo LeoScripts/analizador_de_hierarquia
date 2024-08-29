@@ -1,0 +1,35 @@
+{
+  "Animais": {
+    "Mamíferos": {
+      "Carnívoros": {
+        "Felinos": ["Leão", "Tigre", "Jaguar", "Leopardo"],
+        "Canídeos": ["Lobo", "Raposa", "Cachorro"]
+      },
+      "Herbívoros": {
+        "Equídeos": ["Cavalo", "Zebra", "Asno"],
+        "Cervídeos": ["Cervo", "Veado", "Rena"],
+        "Bovideos": ["Boi", "Búfalo", "Antílope", "Cabra"]
+      }
+    },
+    "Aves": {
+      "Raptors": {
+        "Accipitridae": ["Águia", "Falcão", "Gavião"],
+        "Strigidae": ["Coruja", "Mocho"]
+      },
+      "Passeriformes": {
+        "Fringillidae": ["Pintassilgo", "Canário"],
+        "Corvidae": ["Corvo", "Gralha", "Gaio"]
+      }
+    },
+    "Peixes": {
+      "Cartilaginosos": {
+        "Tubarões": ["Tubarão-branco", "Tubarão-martelo"],
+        "Raias": ["Raia-manta", "Raia-elétrica"]
+      },
+      "Ósseos": {
+        "Salmão": ["Salmão-do-atlântico", "Salmão-rei"],
+        "Tilápia": ["Tilápia-do-nilo", "Tilápia-vermelha"]
+      }
+    }
+  }
+}
