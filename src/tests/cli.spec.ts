@@ -10,7 +10,7 @@ describe("CLI Command Test", () => {
         done(error);
       } else {
         console.log(`Output: ${stdout}`);
-        expect(error).toBeNull(); // O comando deve retornar null para erro, o que significa retorno 0
+        expect(error).toBeNull();
         done();
       }
     });
